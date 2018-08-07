@@ -1,4 +1,4 @@
 # git-practice
 
-Welcome! This is a repository you can safely make commits to and play around with to learn how to use git and github. This was difficult. lets try again.
+Welcome! This is a repository you can safely make commits to and play around with to learn how to use git and github. This was difficult. Let’s try again.
 
